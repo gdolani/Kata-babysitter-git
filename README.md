@@ -16,3 +16,9 @@ The babysitter:
 *As a babysitter<br>
 In order to get paid for 1 night of work<br>
 I want to calculate my nightly charge<br>*
+
+
+import I/O Angular
+import class
+import 
+
